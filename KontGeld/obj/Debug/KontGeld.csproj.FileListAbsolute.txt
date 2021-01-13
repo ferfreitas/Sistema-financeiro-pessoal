@@ -1,0 +1,1501 @@
+F:\Etec 2018\C#\KontGeld\KontGeld\bin\Debug\KontGeld.exe.config
+F:\Etec 2018\C#\KontGeld\KontGeld\bin\Debug\KontGeld.exe
+F:\Etec 2018\C#\KontGeld\KontGeld\bin\Debug\KontGeld.pdb
+F:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+F:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+F:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.exe
+F:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.pdb
+F:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+F:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+D:\Etec 2018\C#\KontGeld\KontGeld\bin\Debug\KontGeld.exe.config
+D:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.exe
+D:\Etec 2018\C#\KontGeld\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\KontGeld\KontGeld\obj\Debug\KontGeld.Inicio.resources
+K:\Etec 2018\TCC\KontGeld\KontGeld\bin\Debug\KontGeld.exe.config
+K:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.exe
+K:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.pdb
+K:\Etec 2018\TCC\KontGeld\KontGeld\bin\Debug\KontGeld.exe
+K:\Etec 2018\TCC\KontGeld\KontGeld\bin\Debug\KontGeld.pdb
+K:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+K:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+K:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.Inicio.resources
+K:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+K:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+E:\Etec 2018\TCC\KontGeld\KontGeld\bin\Debug\KontGeld.exe.config
+E:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.exe
+E:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.pdb
+J:\Etec 2018\TCC\KontGeld\KontGeld\bin\Debug\KontGeld.exe.config
+J:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.exe
+J:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.pdb
+J:\Etec 2018\TCC\KontGeld\KontGeld\bin\Debug\KontGeld.exe
+J:\Etec 2018\TCC\KontGeld\KontGeld\bin\Debug\KontGeld.pdb
+J:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+J:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+J:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.Inicio.resources
+J:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+J:\Etec 2018\TCC\KontGeld\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\Aluno\Desktop\KontGeld\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Programa\Alteração 1\KontGeld\obj\Debug\KontGeld.Contas.resources
+H:\Alteração 2\KontGeld\bin\Debug\KontGeld.exe.config
+H:\Alteração 2\KontGeld\obj\Debug\KontGeld.exe
+H:\Alteração 2\KontGeld\obj\Debug\KontGeld.pdb
+D:\ALL\tcc\Alteração 2\KontGeld\bin\Debug\KontGeld.exe.config
+D:\ALL\tcc\Alteração 2\KontGeld\bin\Debug\KontGeld.exe
+D:\ALL\tcc\Alteração 2\KontGeld\bin\Debug\KontGeld.pdb
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.Contas.resources
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.Inicio.resources
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.exe
+D:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.pdb
+K:\ALL\tcc\Alteração 2\KontGeld\bin\Debug\KontGeld.exe.config
+K:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.exe
+K:\ALL\tcc\Alteração 2\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.Contas.resources
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\TCC\Alteração 2\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.Contas.resources
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\TCC\Alteração 3\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 4\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Downloads\TCC\Alteração 4\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 6\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 6\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 6\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 6\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 7\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 8\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 8\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 8\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 8\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 9\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 9\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 9\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 9\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 10\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 10\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 10\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 10\KontGeld\obj\Debug\KontGeld.pdb
+F:\TCC\Alteração 11\KontGeld\bin\Debug\KontGeld.exe.config
+F:\TCC\Alteração 11\KontGeld\bin\Debug\KontGeld.exe
+F:\TCC\Alteração 11\KontGeld\bin\Debug\KontGeld.pdb
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.Inicio.resources
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.exe
+F:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 11\KontGeld\bin\Debug\KontGeld.exe.config
+E:\TCC\Alteração 11\KontGeld\bin\Debug\KontGeld.exe
+E:\TCC\Alteração 11\KontGeld\bin\Debug\KontGeld.pdb
+E:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.csprojResolveAssemblyReference.cache
+E:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.Inicio.resources
+E:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+E:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+E:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.Cache
+E:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.exe
+E:\TCC\Alteração 11\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 11\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 11\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 11\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 11\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 12\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 12\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 12\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 12\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 12\KontGeld\bin\Debug\KontGeld.exe.config
+E:\TCC\Alteração 12\KontGeld\bin\Debug\KontGeld.exe
+E:\TCC\Alteração 12\KontGeld\bin\Debug\KontGeld.pdb
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.Inicio.resources
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.exe
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 12\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 13\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 13\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 13\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 13\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 14\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 14\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 14\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 14\KontGeld\obj\Debug\KontGeld.pdb
+F:\aaa\Alteração 14\KontGeld\bin\Debug\KontGeld.exe.config
+F:\aaa\Alteração 14\KontGeld\bin\Debug\KontGeld.exe
+F:\aaa\Alteração 14\KontGeld\bin\Debug\KontGeld.pdb
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.Inicio.resources
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.Transações.resources
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.exe
+F:\aaa\Alteração 14\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 16\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 16\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 16\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 16\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 18\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 18\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 18\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 18\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 20\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 20\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 20\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 20\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 21\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 21\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 21\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.pdb
+F:\TCC\Alteração 21\KontGeld\bin\Debug\KontGeld.exe.config
+F:\TCC\Alteração 21\KontGeld\bin\Debug\KontGeld.exe
+F:\TCC\Alteração 21\KontGeld\bin\Debug\KontGeld.pdb
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.Inicio.resources
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.Transações.resources
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.exe
+F:\TCC\Alteração 21\KontGeld\obj\Debug\KontGeld.pdb
+E:\Alteração 21\KontGeld\bin\Debug\KontGeld.exe.config
+E:\Alteração 21\KontGeld\obj\Debug\KontGeld.exe
+E:\Alteração 21\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\Alteração 21\KontGeld\bin\Debug\KontGeld.pdb
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.Inicio.resources
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.Relatorios.resources
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.Transações.resources
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.exe
+F:\Alteração 21\KontGeld\obj\Debug\KontGeld.pdb
+F:\Alteração 21\KontGeld\bin\Debug\KontGeld.exe.config
+F:\Alteração 21\KontGeld\bin\Debug\KontGeld.exe
+F:\Alteração 21\KontGeld\bin\Debug\KontGeld.pdb
+E:\TCC\Alteração 23\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+E:\TCC\Alteração 23\KontGeld\obj\Debug\KontGeld.exe
+E:\TCC\Alteração 23\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 23 (apresentação)\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 24\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 24\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 24\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 24\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 25\KontGeld\bin\Debug\KontGeld.exe.config
+E:\TCC\Alteração 25\KontGeld\bin\Debug\KontGeld.exe
+E:\TCC\Alteração 25\KontGeld\bin\Debug\KontGeld.pdb
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.Inicio.resources
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.Transações.resources
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.exe
+E:\TCC\Alteração 25\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 25\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 25\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 25\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 25\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 26\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 26\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 26\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 26\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 29\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 29\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 29\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 29\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\luana\Desktop\Alteração 30\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\luana\Desktop\Alteração 30\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\luana\Desktop\Alteração 30\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\luana\Desktop\Alteração 30\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 31\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 31\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 31\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 31\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 32\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 32\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 32\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 32\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 33\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 33\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 33\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 33\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 36\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 36\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 36\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 36\KontGeld\obj\Debug\KontGeld.pdb
+E:\Alteração 37\KontGeld\bin\Debug\KontGeld.exe.config
+E:\Alteração 37\KontGeld\bin\Debug\KontGeld.exe
+E:\Alteração 37\KontGeld\bin\Debug\KontGeld.pdb
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.Inicio.resources
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.Transações.resources
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.exe
+E:\Alteração 37\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\luana\Desktop\Alteração 37\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\luana\Desktop\Alteração 37\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\luana\Desktop\Alteração 37\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\luana\Desktop\Alteração 37\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\EnvDTE.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\stdole.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\EnvDTE80.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\VSLangProj.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\VSLangProj80.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\VSLangProj2.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.exe.config
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+C:\Users\ferna\Downloads\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+E:\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\KontGeld.exe.config
+E:\é esse\Alteração 38\KontGeld\bin\Debug\KontGeld.exe
+E:\é esse\Alteração 38\KontGeld\bin\Debug\KontGeld.pdb
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\EnvDTE.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\stdole.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\EnvDTE80.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\VSLangProj.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\VSLangProj80.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Newtonsoft.Json.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.MSXML.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\VSLangProj2.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\é esse\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.exe.config
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Inicio.resources
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.Transações.resources
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.exe
+E:\é esse\Alteração 38\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\EnvDTE.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\stdole.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\EnvDTE80.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\VSLangProj.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\VSLangProj80.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.MSXML.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\VSLangProj2.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 38\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\EnvDTE.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\stdole.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\EnvDTE80.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\VSLangProj.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\VSLangProj80.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.MSXML.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\VSLangProj2.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 39\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.exe.config
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.Inicio.resources
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.Transações.resources
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.exe
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 40\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\KontGeld.exe.config
+E:\TCC\Alteração 40\KontGeld\bin\Debug\KontGeld.exe
+E:\TCC\Alteração 40\KontGeld\bin\Debug\KontGeld.pdb
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\EnvDTE.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\stdole.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\EnvDTE80.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\VSLangProj.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\VSLangProj80.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Newtonsoft.Json.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.MSXML.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\VSLangProj2.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\TCC\Alteração 40\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\TCC\Alteração 40\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\TCC\Alteração 40\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\EnvDTE.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\stdole.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\EnvDTE80.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\VSLangProj.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\VSLangProj80.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.MSXML.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\VSLangProj2.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.exe.config
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\etec\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.exe.config
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Inicio.resources
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Transações.resources
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.exe
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.pdb
+E:\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\KontGeld.exe.config
+E:\TCC\Alteração 41\KontGeld\bin\Debug\KontGeld.exe
+E:\TCC\Alteração 41\KontGeld\bin\Debug\KontGeld.pdb
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\EnvDTE.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\stdole.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\EnvDTE80.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\VSLangProj.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\VSLangProj80.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Newtonsoft.Json.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.MSXML.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\VSLangProj2.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\TCC\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\EnvDTE.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\stdole.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\EnvDTE80.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\VSLangProj.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\VSLangProj80.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\VSLangProj2.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.exe.config
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\ferna\Desktop\TCC\Alteração 41\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.exe.config
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.exe
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.pdb
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\KontGeld.exe.config
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\KontGeld.exe
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\KontGeld.pdb
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\EnvDTE.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\stdole.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\EnvDTE80.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\VSLangProj.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\VSLangProj80.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.MSXML.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\VSLangProj2.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.InfoUsu.resources
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Inicio.resources
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.TelaLogin.resources
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Objetivos.resources
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Properties.Resources.resources
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Relatórios.resources
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.Transações.resources
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.GenerateResource.cache
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\Alteração 41\KontGeld\obj\Debug\KontGeld.csproj.CopyComplete
